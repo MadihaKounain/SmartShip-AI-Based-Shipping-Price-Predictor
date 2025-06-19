@@ -68,11 +68,6 @@ shipping-price-predictor/
 
 ---
 
-## 📜 License
-
-MIT License. Feel free to use, modify, and share!
-
----
 
 ## 🙋‍♀️ Developed by
 

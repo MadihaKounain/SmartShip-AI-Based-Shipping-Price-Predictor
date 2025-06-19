@@ -68,12 +68,6 @@ shipping-price-predictor/
 
 ---
 
-## 📷 Screenshot
-
-![App Screenshot](screenshot.png)
-
----
-
 ## 📜 License
 
 MIT License. Feel free to use, modify, and share!
